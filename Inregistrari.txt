@@ -1,0 +1,7 @@
+﻿1, Nume1
+2, Nume2
+3, Nume3
+4, Nume4
+5, Nume5
+6, Nume6
+7, Nume7
